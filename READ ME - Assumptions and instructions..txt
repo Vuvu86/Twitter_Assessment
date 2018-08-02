@@ -1,0 +1,17 @@
+Assumptions
+
+1.A user can have many followers.
+2.A user can follow back his followers.
+3.A user can see his tweets.
+4.A user can see tweets of all the people he is following.
+5.A user can be a follower visa vesa.
+6.A user cannot see tweets of people he is not following.
+8.The files already exist.
+9.The files are saved on current directory "Resources" folder.
+10. There is no user or follower with the name "follows".
+
+How to run
+
+Make sure the Api "User.Follower.Api" is running.
+Run the Display.Service to view users and their tweets.
+You can use Swagger to test the Api - Url "http://localhost:6004/swagger/"
